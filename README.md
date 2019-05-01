@@ -11,6 +11,6 @@ Cancer is a complex series of diseases distinguished by cell type, location, sta
 |Tissue Organization|Normal|Disorganized|
 |Differentiation|Normal|Disorganized|
 |Tumor Boundary|Well defined ("encapsulated")|Poorly defined|
-|--------------|-----------------------------|--------------|
+
 
 
