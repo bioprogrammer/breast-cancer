@@ -5,6 +5,6 @@ Cancer is a complex series of diseases distinguished by cell type, location, sta
 |Trait|Benign|Malignant|
 |-----|------|---------|
 |Nuclear size|small|large|
-|N/C ratio
+|N/C ratio \\
 (ratio of nuclear size to cytoplasmic volume)
 
