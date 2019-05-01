@@ -19,6 +19,12 @@ Cancer is a complex series of diseases distinguished by cell type, location, sta
 </center>
 
 ## Algorithm and Dataset
+### Algorithm
+k-Nearest Neighbor (k-NN) is a supervised learning algorithm that uses information about an example's k-nearest neighbors in order to classify unlabeled examples. The 'k' is a variable term the implication of which is that any number of nearest neighbors, plotted on a Cartesian coordinate system, could be utilized in the classification process. The selection of 'k' may seem arbitrary, but a common method of selection is to calculate the square root of the number of categorized samples used as training data. Each unlabeled record in the test dataset is then compared to 'k' records in the training set and the mathematical distance, i.e., the similarity, calculated using the following Euclidian Distance formula:
+
+
+
+
 ### Dataset
 In order to classify tissue biopsy samples into a predicted category, this project will utilize the k-Nearest Neighbor (k-NN) algorithm and the Breast Cancer Wisconsin dataset which consists of the following attributes
 
@@ -51,7 +57,4 @@ h.) concave points (number of concave portions of the contour)
 i.) symmetry
 
 j.) fractal dimension ("coastline approximation" - 1)
-
-### Algorithm
-
 
