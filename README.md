@@ -25,9 +25,7 @@ k-Nearest Neighbor (k-NN) is a supervised learning algorithm that uses informati
 ![Euclidian Distance Formula](https://github.com/bioprogrammer/images/blob/master/euclidian_distance.gif)
 
 'p' and 'q' are the examples being used for comparison with each example possessing 'n' features.  
-![p1](https://github.com/bioprogrammer/images/blob/master/p1.gif) and ![q2](https://github.com/bioprogrammer/images/blob/master/q1.gif) refer to the first and second examples being compared with each having 'n' features. 
-
-
+![p1](https://github.com/bioprogrammer/images/blob/master/p1.gif) and ![q2](https://github.com/bioprogrammer/images/blob/master/q1.gif) refer to the first and second examples respectively that are being compared with each having 'n' features. 
 
 ### Dataset
 In order to classify tissue biopsy samples into a predicted category, this project will utilize the k-Nearest Neighbor (k-NN) algorithm and the Breast Cancer Wisconsin dataset which consists of the following attributes
@@ -61,4 +59,9 @@ h.) concave points (number of concave portions of the contour)
 i.) symmetry
 
 j.) fractal dimension ("coastline approximation" - 1)
+
+## Sample output
+### Crosstable 
+
+
 
