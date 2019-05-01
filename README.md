@@ -2,7 +2,7 @@
 
 ## Background
 ### Cancer
-Cancer is a complex series of diseases distinguished by cell type, location, stage, and grade, but, by definition it is defined by cellular growth that, through a complex series of mechanisms, seeks to evade the innate defenses of the immune system, and in the case of a malignancy, proliferate throughout the body effectively disrupting the homeostatic physiology of organ systems and introducing the possibility of death to the affecte organism or individual. There exist two forms of abnormal cell growth, one of which is erroneously referred to as 'cancer', that exhibit distinct differences in both appearance and behavior:
+Cancer is a complex series of diseases distinguished by cell type, location, stage, and grade, but, by definition it is defined by cellular growth that, through a complex series of mechanisms, seeks to evade the innate defenses of the immune system, and in the case of a malignancy, proliferate throughout the body effectively disrupting the homeostatic physiology of organ systems and introducing the possibility of death to the affected organism or individual. There exist two forms of abnormal cell growth, one of which is erroneously referred to as 'cancer', that exhibit distinct differences in both appearance and behavior, frequently require differing forms of treatment, and routinely result in vastly different prognoses:
 
 <center>
   
@@ -25,7 +25,7 @@ k-Nearest Neighbor (k-NN) is a supervised learning algorithm that uses informati
 ![Euclidian Distance Formula](https://github.com/bioprogrammer/images/blob/master/euclidian_distance.gif)
 
 'p' and 'q' are the examples being used for comparison with each example possessing 'n' features.  
-![p1](https://github.com/bioprogrammer/images/blob/master/p1.gif) and ![q2](https://github.com/bioprogrammer/images/blob/master/q1.gif) refer to the first and second examples respectively that are being compared with each having 'n' features. 
+![p1](https://github.com/bioprogrammer/images/blob/master/p1.gif) and ![q2](https://github.com/bioprogrammer/images/blob/master/q1.gif) refer to the first and second examples respectively that are being compared with each having 'n' features. The 'k' number of values nearest to those calculated for the unlabeled example are used in the consensus process with a majority vote determining the class and a tie being resolved by random number. 
 
 ### Dataset
 In order to classify tissue biopsy samples into a predicted category, this project will utilize the k-Nearest Neighbor (k-NN) algorithm and the Breast Cancer Wisconsin dataset which consists of the following attributes
