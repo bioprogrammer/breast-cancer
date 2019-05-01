@@ -16,7 +16,7 @@ Cancer is a complex series of diseases distinguished by cell type, location, sta
 
 </center>
 
-In order to classify tissue biopsy samples into a predicted category, this project will utilize the Breast Cancer Wisconsin dataset which consists of the following attributes:
+In order to classify tissue biopsy samples into a predicted category, this project will utilize the k-Nearest Neighbor (k-NN) algorithm and the Breast Cancer Wisconsin dataset which consists of the following attributes
 
 **Attribute Information:**
 
