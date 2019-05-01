@@ -1,6 +1,7 @@
 ![Breast Cancer Image 1](https://github.com/bioprogrammer/images/blob/master/human-breast-cancer-cells.jpg)
 
 ## Background
+###Cancer
 Cancer is a complex series of diseases distinguished by cell type, location, stage, and grade, but, by definition it is defined by cellular growth that, through a complex series of mechanisms, seeks to evade the innate defenses of the immune system, and in the case of a malignancy, proliferate throughout the body effectively disrupting the homeostatic physiology of organ systems and introducing the possibility of death to the affecte organism or individual. There exist two forms of abnormal cell growth, one of which is erroneously referred to as 'cancer', that exhibit distinct differences in both appearance and behavior:
 
 <center>
@@ -18,6 +19,7 @@ Cancer is a complex series of diseases distinguished by cell type, location, sta
 </center>
 
 ## Algorithm and Dataset
+### Dataset
 In order to classify tissue biopsy samples into a predicted category, this project will utilize the k-Nearest Neighbor (k-NN) algorithm and the Breast Cancer Wisconsin dataset which consists of the following attributes
 
 **Attribute Information:**
@@ -50,5 +52,6 @@ i.) symmetry
 
 j.) fractal dimension ("coastline approximation" - 1)
 
+### Algorithm
 
 
