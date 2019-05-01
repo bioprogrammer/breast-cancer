@@ -51,7 +51,7 @@ wbcd_testing_pred <- knn(train = wbcd_training, test = wbcd_testing,
 			 cl = wbcd_training_labels, k = 21)
 
 # Display a CrossTable featuring the four possible categories, i.e., True Positive,
-# False Positive, True Negative, or False Negative. 
+# False Positive, True Negative, or False Negative
 CrossTable(x = wbcd_testing_labels, y = wbcd_testing_pred, prop.chisq = F)
 
 
