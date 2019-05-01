@@ -25,7 +25,7 @@ k-Nearest Neighbor (k-NN) is a supervised learning algorithm that uses informati
 ![Euclidian Distance Formula](https://github.com/bioprogrammer/images/blob/master/euclidian_distance.gif)
 
 'p' and 'q' are the examples being used for comparison with each example possessing 'n' features.  
-
+![p1](https://github.com/bioprogrammer/images/blob/master/p1.gif) and [!q2](https://github.com/bioprogrammer/images/blob/master/q1.gif) refer to the first and second examples being compared with each having 'n' features. 
 
 
 
